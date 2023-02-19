@@ -7,7 +7,11 @@ const LogoutButton = () => {
   return (
     <button
       onClick={() =>
-        logout({ logoutParams: { returnTo: window.location.href } })
+        logout({
+          logoutParams: {
+            returnTo: "https://chemagaton24.github.io/AuthODemo",
+          },
+        })
       }
     >
       Log Out
