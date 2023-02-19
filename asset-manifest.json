@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/AuthODemo/static/js/main.79911546.js",
+    "main.js": "/AuthODemo/static/js/main.cc934551.js",
     "static/js/787.5a8e4c04.chunk.js": "/AuthODemo/static/js/787.5a8e4c04.chunk.js",
     "index.html": "/AuthODemo/index.html",
-    "main.79911546.js.map": "/AuthODemo/static/js/main.79911546.js.map",
+    "main.cc934551.js.map": "/AuthODemo/static/js/main.cc934551.js.map",
     "787.5a8e4c04.chunk.js.map": "/AuthODemo/static/js/787.5a8e4c04.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.79911546.js"
+    "static/js/main.cc934551.js"
   ]
 }
