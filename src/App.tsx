@@ -9,12 +9,14 @@ const App = () => {
       domain="chembeeragaton.jp.auth0.com"
       clientId="ZfN660B0ucf4jCIUDTD01GFzwq29RMuJ"
       authorizationParams={{
-        redirect_uri: window.location.origin,
+        // redirect_uri: window.location.origin,
+        redirect_uri: "https://chemagaton24.github.io/AuthODemo",
       }}
     >
       <LoginButton />
       <LogoutButton />
       <Profile />
+      xcxcx
     </Auth0Provider>
   );
 };
